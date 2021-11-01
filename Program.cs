@@ -48,7 +48,7 @@ namespace testePilha
                         f.Imprimir();
                         break;
                     case "6":
-                        aux = 1;
+                        aux = 0;
                         break;
                     default:
                         Console.WriteLine("Favor escolher uma das opções listadas.");

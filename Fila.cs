@@ -17,8 +17,15 @@ namespace testePilha
 
         public void RemoverElemento()
         {
-            int removido = fila.Dequeue();
-            Console.WriteLine("\nInteiro removido: {0}", removido);
+            if(fila.Count != 0)
+            {
+                int removido = fila.Dequeue();
+                Console.WriteLine("\nInteiro removido: {0}", removido);
+            }
+            else{
+                Console.WriteLine("\nLista Vazia");
+
+            }
 
         }
 
@@ -29,16 +36,17 @@ namespace testePilha
 
             for (int i = 0; i <= fila.Count - 1; i++)
             {
-                if (fila.Contains(apos))
+                if (filaArr[i] == apos)
                 {
-                    filaAux[i + 1] = filaArr[i];
+                    filaAux[i] = filaArr[i];
+                    filaAux[i + 1] = inserir;
                 }
                 else
                 {
                     filaAux[i] = filaArr[i];
                 }
             }
-
+            fila.Clear();
             for (int i = 0; i <= filaAux.Length - 1; i++)
             {
                 fila.Enqueue(filaAux[i]);
@@ -61,11 +69,7 @@ namespace testePilha
 
             for (int j = 0; j <= tamanhoFila; j++)
             {
-                for (int i = tamanhoFila; i >= 0; i--)
-                {
-                    filaReversa[i] = filaArr[j];
-                }
-
+                filaReversa[j] = filaArr[tamanhoFila-j];
             }
 
             fila.Clear();
