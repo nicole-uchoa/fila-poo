@@ -1,0 +1,16 @@
+/home/nicole/Documentos/UFU/POO/testePilha/bin/Debug/net5.0/testePilha
+/home/nicole/Documentos/UFU/POO/testePilha/bin/Debug/net5.0/testePilha.deps.json
+/home/nicole/Documentos/UFU/POO/testePilha/bin/Debug/net5.0/testePilha.runtimeconfig.json
+/home/nicole/Documentos/UFU/POO/testePilha/bin/Debug/net5.0/testePilha.runtimeconfig.dev.json
+/home/nicole/Documentos/UFU/POO/testePilha/bin/Debug/net5.0/testePilha.dll
+/home/nicole/Documentos/UFU/POO/testePilha/bin/Debug/net5.0/ref/testePilha.dll
+/home/nicole/Documentos/UFU/POO/testePilha/bin/Debug/net5.0/testePilha.pdb
+/home/nicole/Documentos/UFU/POO/testePilha/obj/Debug/net5.0/testePilha.csproj.AssemblyReference.cache
+/home/nicole/Documentos/UFU/POO/testePilha/obj/Debug/net5.0/testePilha.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/UFU/POO/testePilha/obj/Debug/net5.0/testePilha.AssemblyInfoInputs.cache
+/home/nicole/Documentos/UFU/POO/testePilha/obj/Debug/net5.0/testePilha.AssemblyInfo.cs
+/home/nicole/Documentos/UFU/POO/testePilha/obj/Debug/net5.0/testePilha.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/UFU/POO/testePilha/obj/Debug/net5.0/testePilha.dll
+/home/nicole/Documentos/UFU/POO/testePilha/obj/Debug/net5.0/ref/testePilha.dll
+/home/nicole/Documentos/UFU/POO/testePilha/obj/Debug/net5.0/testePilha.pdb
+/home/nicole/Documentos/UFU/POO/testePilha/obj/Debug/net5.0/testePilha.genruntimeconfig.cache
